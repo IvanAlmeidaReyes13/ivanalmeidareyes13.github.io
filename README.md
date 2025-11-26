@@ -21,6 +21,6 @@ If you need assistance with the MindFunless app, please visit our [Support Cente
 
 [Download MindFunless on the App Store](https://apps.apple.com/es/app/mindfunless/id6744620071)
 
----
+----
 
 © 2025 MindFunless. All rights reserved.
